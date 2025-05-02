@@ -16,6 +16,8 @@ int main() {
 นามสกุลของไฟล์ ต้องเป็น .c เท่านั้น
 ถ้านามสกุลเป็น .cpp ให้ทำการ rename ก่อนส่ง
 
+<img width="729" alt="Screen Shot 2568-05-02 at 15 45 04" src="https://github.com/user-attachments/assets/b6a2dc8c-a24d-4cff-95b7-4807ab9933cc" />
+
 ---
 
 ## Chapter : 1 - item : 2 - แสดงผลตามตัวอย่าง 2
