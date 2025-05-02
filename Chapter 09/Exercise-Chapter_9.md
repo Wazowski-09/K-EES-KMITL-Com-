@@ -38,6 +38,12 @@ int main() {
 }
 ```
 
+<img width="701" alt="Screen Shot 2568-05-02 at 21 11 23" src="https://github.com/user-attachments/assets/94e9747f-fe39-4db0-bb7c-343262bdca84" />
+
+<img width="696" alt="Screen Shot 2568-05-02 at 21 11 38" src="https://github.com/user-attachments/assets/38bee712-93fe-4121-8cd1-1330303d4009" />
+
+<img width="697" alt="Screen Shot 2568-05-02 at 21 11 47" src="https://github.com/user-attachments/assets/56fdd271-1ee8-4815-9aab-98a7d5f48500" />
+
 ---
 
 ## Chapter : 9 - item : 2 - (43) โจร
@@ -71,6 +77,8 @@ int main()
 }
 ```
 
+<img width="697" alt="Screen Shot 2568-05-02 at 21 12 07" src="https://github.com/user-attachments/assets/44223842-8331-44ff-aff2-c578bd0b4f7f" />
+
 ---
 
 ## Chapter : 9 - item : 3 - (4) คะแนน
@@ -101,6 +109,8 @@ int main()
 		printf("%d ", scores[i]);
 }
 ```
+
+<img width="698" alt="Screen Shot 2568-05-02 at 21 12 23" src="https://github.com/user-attachments/assets/7a55d286-85a5-4422-b081-924298940e2f" />
 
 ---
 
@@ -134,6 +144,12 @@ int main() {
 }
 ```
 
+<img width="697" alt="Screen Shot 2568-05-02 at 21 12 44" src="https://github.com/user-attachments/assets/32e52aaf-9a22-49a5-8bf8-c98ca32130eb" />
+
+<img width="697" alt="Screen Shot 2568-05-02 at 21 14 29" src="https://github.com/user-attachments/assets/af9cef82-6710-4b32-9c51-1979da8b220c" />
+
+<img width="696" alt="Screen Shot 2568-05-02 at 21 14 40" src="https://github.com/user-attachments/assets/5d966eb8-adf1-42b4-8928-99f36d2e7c3c" />
+
 ---
 
 ## Chapter : 9 - item : 5 - phone number
@@ -161,5 +177,9 @@ int main() {
 	return 0;
 }
 ```
+
+<img width="697" alt="Screen Shot 2568-05-02 at 21 15 02" src="https://github.com/user-attachments/assets/20f893aa-1609-469c-8185-959784be0d6e" />
+
+<img width="694" alt="Screen Shot 2568-05-02 at 21 15 14" src="https://github.com/user-attachments/assets/a353d868-83b4-40d2-8c3c-487a1e517f1e" />
 
 ---
