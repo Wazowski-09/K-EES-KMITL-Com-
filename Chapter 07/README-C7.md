@@ -22,6 +22,10 @@ int main() {
 //เพิ่ม code ด้านล่าง
 ```
 
+<img width="697" alt="Screen Shot 2568-05-02 at 20 43 58" src="https://github.com/user-attachments/assets/0e321020-710d-4631-8683-d4d52163c557" />
+
+<img width="698" alt="Screen Shot 2568-05-02 at 20 44 12" src="https://github.com/user-attachments/assets/ad30d67f-48c4-4d48-afce-3b6df7109f2c" />
+
 ---
 
 ## Chapter : 7 - item : 2 - (4) ลดราคา
@@ -70,6 +74,8 @@ float  discount(int  prize,  float coupon)
 }
 ```
 
+<img width="695" alt="Screen Shot 2568-05-02 at 20 44 34" src="https://github.com/user-attachments/assets/380b8cab-15da-4c21-8143-907a5650cd23" />
+
 ---
 
 ## Chapter : 7 - item : 3 - เปลี่ยนข้อความเป็น ตัวใหญ่ ตัวเล็ก
@@ -81,6 +87,10 @@ float  discount(int  prize,  float coupon)
 
 **ข้อแนะนำ**
 ใช้ function toupper และ tolower ซี่งอยู่ใน ctype.h
+
+<img width="695" alt="Screen Shot 2568-05-02 at 20 44 48" src="https://github.com/user-attachments/assets/b900a322-1422-42de-ad38-641333334f84" />
+
+<img width="697" alt="Screen Shot 2568-05-02 at 20 45 01" src="https://github.com/user-attachments/assets/70a7d745-e5b9-4aea-871f-47cf654aec6d" />
 
 ---
 
@@ -136,6 +146,8 @@ int has_upper_case(char string[]) {
 }
 ```
 
+<img width="696" alt="Screen Shot 2568-05-02 at 20 45 23" src="https://github.com/user-attachments/assets/56ed6f8e-4ccf-421c-ba82-0eb826ae396c" />
+
 ---
 
 ## Chapter : 7 - item : 5 - (4) บัตรปชช
@@ -168,5 +180,9 @@ int main()
 
 }
 ```
+
+<img width="697" alt="Screen Shot 2568-05-02 at 20 45 45" src="https://github.com/user-attachments/assets/d09c20b7-7aba-475a-9afc-b5f8d17b2ca6" />
+
+<img width="699" alt="Screen Shot 2568-05-02 at 20 46 00" src="https://github.com/user-attachments/assets/928ae422-31da-4440-9dab-585e9bc1847d" />
 
 ---
