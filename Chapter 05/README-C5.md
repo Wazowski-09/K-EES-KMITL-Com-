@@ -6,6 +6,38 @@
 โดยรับ Input เป็นจำนวนเต็ม 2 จำนวน คือค่าเริ่มต้น กับค่าผลต่างร่วม
 แล้วแสดง Output เป็นลำดับเลขคณิตจำนวน 10 เลข โดยที่เอาเลขมากสุดขึ้นก่อน แล้วถอยหลังลงมา
 
+**Testcase 1 :**
+
+```
+ *** Arithmetic Sequence ***
+Enter 2 Positive Integers: 1 1
+10 9 8 7 6 5 4 3 2 1
+```
+
+**Testcase 2 :**
+
+```
+ *** Arithmetic Sequence ***
+Enter 2 Positive Integers: 9 10
+99 89 79 69 59 49 39 29 19 9
+```
+
+**Testcase 3 :**
+
+```
+ *** Arithmetic Sequence ***
+Enter 2 Positive Integers: 0 25
+225 200 175 150 125 100 75 50 25 0
+```
+
+**Testcase 4 :**
+
+```
+ *** Arithmetic Sequence ***
+Enter 2 Positive Integers: 23 17
+176 159 142 125 108 91 74 57 40 23
+```
+
 <img width="697" alt="Screen Shot 2568-05-02 at 19 28 37" src="https://github.com/user-attachments/assets/ca9a40a4-c8e3-4568-87e6-1f8301824c30" />
 
 <img width="699" alt="Screen Shot 2568-05-02 at 19 28 54" src="https://github.com/user-attachments/assets/df08f4b4-b21a-402d-a163-405a923fe309" />
@@ -27,6 +59,45 @@ text ชุดนึง ยาวไม่เกิน 20 ตัวอักษ�
 **ห้ามใช้ #include <string.h>**  
 ปล. แสดงให้เหมือนเป๊ะ ๆ นะ
 ปล2. ลองทำความรู้จักกับตัวอักษรนี้ดู \0
+
+**Testcase 1 :**
+
+```
+Enter your name : jewsar
+J
+E
+W
+S
+A
+R
+Name length : 6
+```
+
+**Testcase 2 :**
+
+```
+Enter your name : fonkook
+F
+O
+N
+K
+O
+O
+K
+Name length : 7
+```
+
+**Testcase 3 :**
+
+```
+Enter your name : titan
+T
+I
+T
+A
+N
+Name length : 5
+```
 
 <img width="697" alt="Screen Shot 2568-05-02 at 19 29 24" src="https://github.com/user-attachments/assets/4a6a139c-c1d5-4a1a-b36b-3fd91d3030a8" />
 
@@ -69,6 +140,81 @@ int main() {
 }
 ```
 
+**Testcase 1 :**
+
+```
+ *** Display char and unsigned char ***
+Enter number and length : 1 5
+char = 1    	unsigned char = 1
+char = 2    	unsigned char = 2
+char = 3    	unsigned char = 3
+char = 4    	unsigned char = 4
+char = 5    	unsigned char = 5
+
+```
+
+**Testcase 2 :**
+
+```
+ *** Display char and unsigned char ***
+Enter number and length : 125 7
+char = 125  	unsigned char = 125
+char = 126  	unsigned char = 126
+char = 127  	unsigned char = 127
+char = -128 	unsigned char = 128
+char = -127 	unsigned char = 129
+char = -126 	unsigned char = 130
+char = -125 	unsigned char = 131
+
+```
+
+**Testcase 3 :**
+
+```
+ *** Display char and unsigned char ***
+Enter number and length : 250 9
+char = -6   	unsigned char = 250
+char = -5   	unsigned char = 251
+char = -4   	unsigned char = 252
+char = -3   	unsigned char = 253
+char = -2   	unsigned char = 254
+char = -1   	unsigned char = 255
+char = 0    	unsigned char = 0
+char = 1    	unsigned char = 1
+char = 2    	unsigned char = 2
+
+```
+
+**Testcase 4 :**
+
+```
+ *** Display char and unsigned char ***
+Enter number and length : 15 6
+char = 15   	unsigned char = 15
+char = 16   	unsigned char = 16
+char = 17   	unsigned char = 17
+char = 18   	unsigned char = 18
+char = 19   	unsigned char = 19
+char = 20   	unsigned char = 20
+
+```
+
+**Testcase 5 :**
+
+```
+ *** Display char and unsigned char ***
+Enter number and length : -125 8
+char = -125 	unsigned char = 131
+char = -124 	unsigned char = 132
+char = -123 	unsigned char = 133
+char = -122 	unsigned char = 134
+char = -121 	unsigned char = 135
+char = -120 	unsigned char = 136
+char = -119 	unsigned char = 137
+char = -118 	unsigned char = 138
+
+```
+
 <img width="698" alt="Screen Shot 2568-05-02 at 19 29 54" src="https://github.com/user-attachments/assets/d4315db2-6804-4ab8-aba2-b7b7abd5b393" />
 
 <img width="694" alt="Screen Shot 2568-05-02 at 19 30 21" src="https://github.com/user-attachments/assets/05b3bde7-ea5b-44f0-8e17-302fd420bc80" />
@@ -85,6 +231,78 @@ int main() {
 บรรทัดแรกเริ่มจาก ABC
 บรรทัดสองเริ่มจาก BCD
 บรรทัดสามเริ่มจาก CDE
+
+**Testcase 1 :**
+
+```
+Enter a number : 4
+ABCD
+BCDE
+CDEF
+DEFG
+
+```
+
+**Testcase 2 :**
+
+```
+Enter a number : 12
+ABCDEFGHIJKL
+BCDEFGHIJKLM
+CDEFGHIJKLMN
+DEFGHIJKLMNO
+EFGHIJKLMNOP
+FGHIJKLMNOPQ
+GHIJKLMNOPQR
+HIJKLMNOPQRS
+IJKLMNOPQRST
+JKLMNOPQRSTU
+KLMNOPQRSTUV
+LMNOPQRSTUVW
+
+```
+
+**Testcase 3 :**
+
+```
+Enter a number : 11
+ABCDEFGHIJK
+BCDEFGHIJKL
+CDEFGHIJKLM
+DEFGHIJKLMN
+EFGHIJKLMNO
+FGHIJKLMNOP
+GHIJKLMNOPQ
+HIJKLMNOPQR
+IJKLMNOPQRS
+JKLMNOPQRST
+KLMNOPQRSTU
+
+```
+
+**Testcase 4 :**
+
+```
+Enter a number : 7
+ABCDEFG
+BCDEFGH
+CDEFGHI
+DEFGHIJ
+EFGHIJK
+FGHIJKL
+GHIJKLM
+
+```
+
+**Testcase 5 :**
+
+```
+Enter a number : 3
+ABC
+BCD
+CDE
+
+```
 
 <img width="698" alt="Screen Shot 2568-05-02 at 19 30 52" src="https://github.com/user-attachments/assets/545851c0-dec9-4c86-a5a3-cbec03bd79c8" />
 
@@ -109,6 +327,38 @@ int main() {
 และถ้า input > 10 นักศึกษาจะเหนื่อยเกินไป Too much :(
 
 ปล. แสดงผลให้เหมือนเป๊ะ ๆ นะ
+
+**Testcase 1 :**
+
+```
+Enter number : 1
+I Love You
+
+```
+
+**Testcase 2 :**
+
+```
+Enter number : 3
+I Love You
+I Love You
+I Love You
+
+```
+
+**Testcase 3 :**
+
+```
+Enter number : 0
+</3
+```
+
+**Testcase 4 :**
+
+```
+Enter number : 15
+Too much :(
+```
 
 <img width="698" alt="Screen Shot 2568-05-02 at 19 31 37" src="https://github.com/user-attachments/assets/3425bfca-b3fd-4068-8bd2-fc86f1221697" />
 
