@@ -13,6 +13,8 @@
 
 1. การแสดงผลแต่ละบรรทัดมี 80 ตัวอักษร
 
+<img width="731" alt="Screen Shot 2568-05-02 at 18 32 39" src="https://github.com/user-attachments/assets/90bb5266-d616-4f71-bee2-357c4e696e7c" />
+
 ---
 
 ## Chapter : 2 - item : 2 - การแสดงข้อความ มากกว่า 1 บรรทัด ไม่ใช้ \n \t
@@ -27,6 +29,8 @@
 หมายเหตุ
 
 1. การแสดงผลแต่ละบรรทัดมี 80 ตัวอักษร
+
+<img width="729" alt="Screen Shot 2568-05-02 at 18 33 11" src="https://github.com/user-attachments/assets/d7665c48-6d4c-405a-bdd9-e2858e7bc504" />
 
 ---
 
@@ -47,6 +51,8 @@ int main()
 	return 0;
 }
 ```
+
+<img width="728" alt="Screen Shot 2568-05-02 at 18 34 23" src="https://github.com/user-attachments/assets/9de2ae08-d13b-49e0-8f2e-a9d54f9ce789" />
 
 ---
 
@@ -71,6 +77,8 @@ int main()
 }
 ```
 
+<img width="731" alt="Screen Shot 2568-05-02 at 18 34 40" src="https://github.com/user-attachments/assets/8b91fa61-13ba-40c4-8d51-b5e57ff62830" />
+
 ---
 
 ## Chapter : 2 - item : 5 - การแสดงข้อความ %s
@@ -89,5 +97,7 @@ int main() {
 	return 0;
 }
 ```
+
+<img width="728" alt="Screen Shot 2568-05-02 at 18 34 59" src="https://github.com/user-attachments/assets/305978fa-9a54-4d43-9447-eacc6fa64a7b" />
 
 ---
