@@ -22,6 +22,42 @@ int main() {
 //เพิ่ม code ด้านล่าง
 ```
 
+**Testcase 1 :**
+
+```
+ *** Find max value of 4 inputs ***
+Enter 4 integers : 1 2 3 4
+The maximum number is 4
+
+```
+
+**Testcase 2 :**
+
+```
+ *** Find max value of 4 inputs ***
+Enter 4 integers : 9 8 7 6
+The maximum number is 9
+
+```
+
+**Testcase 3 :**
+
+```
+ *** Find max value of 4 inputs ***
+Enter 4 integers : -9 -6 -5 -3
+The maximum number is -3
+
+```
+
+**Testcase 4 :**
+
+```
+ *** Find max value of 4 inputs ***
+Enter 4 integers : 107 130 998 689
+The maximum number is 998
+
+```
+
 <img width="697" alt="Screen Shot 2568-05-02 at 20 43 58" src="https://github.com/user-attachments/assets/0e321020-710d-4631-8683-d4d52163c557" />
 
 <img width="698" alt="Screen Shot 2568-05-02 at 20 44 12" src="https://github.com/user-attachments/assets/ad30d67f-48c4-4d48-afce-3b6df7109f2c" />
@@ -74,6 +110,33 @@ float  discount(int  prize,  float coupon)
 }
 ```
 
+**Testcase 1 :**
+
+```
+Enter 2 prizes and 2 coupons : 129 89 15 7.7
+Item1 129 -> 109.65
+Item2 89 -> 82.15
+* Item2 is cheaper
+```
+
+**Testcase 2 :**
+
+```
+Enter 2 prizes and 2 coupons : 50 50 10 10
+Item1 50 -> 45.00
+Item2 50 -> 45.00
+* Item1 is equal to Item2
+```
+
+**Testcase 3 :**
+
+```
+Enter 2 prizes and 2 coupons : 19 39 4 8.4
+Item1 19 -> 18.24
+Item2 39 -> 35.72
+* Item1 is cheaper
+```
+
 <img width="695" alt="Screen Shot 2568-05-02 at 20 44 34" src="https://github.com/user-attachments/assets/380b8cab-15da-4c21-8143-907a5650cd23" />
 
 ---
@@ -87,6 +150,42 @@ float  discount(int  prize,  float coupon)
 
 **ข้อแนะนำ**
 ใช้ function toupper และ tolower ซี่งอยู่ใน ctype.h
+
+**Testcase 1 :**
+
+```
+Enter a string : Hello
+Capital : HELLO
+Small : hello
+
+```
+
+**Testcase 2 :**
+
+```
+Enter a string : This is my world.
+Capital : THIS IS MY WORLD.
+Small : this is my world.
+
+```
+
+**Testcase 3 :**
+
+```
+Enter a string : Are you dare to copy other person program.
+Capital : ARE YOU DARE TO COPY OTHER PERSON PROGRAM.
+Small : are you dare to copy other person program.
+
+```
+
+**Testcase 4 :**
+
+```
+Enter a string : Institute of Tecnology Ladkrabang.
+Capital : INSTITUTE OF TECNOLOGY LADKRABANG.
+Small : institute of tecnology ladkrabang.
+
+```
 
 <img width="695" alt="Screen Shot 2568-05-02 at 20 44 48" src="https://github.com/user-attachments/assets/b900a322-1422-42de-ad38-641333334f84" />
 
@@ -146,6 +245,30 @@ int has_upper_case(char string[]) {
 }
 ```
 
+**Testcase 1 :**
+
+```
+Enter password : 1234
+verifying . . .
+> Easy to remember!
+```
+
+**Testcase 2 :**
+
+```
+Enter password : 123456789a
+verifying . . .
+> Hard to remember!
+```
+
+**Testcase 3 :**
+
+```
+Enter password : 123abc
+verifying . . .
+> Easy to remember!
+```
+
 <img width="696" alt="Screen Shot 2568-05-02 at 20 45 23" src="https://github.com/user-attachments/assets/56ed6f8e-4ccf-421c-ba82-0eb826ae396c" />
 
 ---
@@ -179,6 +302,45 @@ int main()
 	/* CODE HERE */
 
 }
+```
+
+**Testcase 1 :**
+
+```
+Enter name, age, job : Than 20 TA
+======================
+| Than               |
+| ------------------ |
+| Age : 20           |
+| Job : TA           |
+======================
+
+```
+
+**Testcase 2 :**
+
+```
+Enter name, age, job : Tommy 7 TroubleMaker
+======================
+| Tommy              |
+| ------------------ |
+| Age : 7            |
+| Job : TroubleMaker |
+======================
+
+```
+
+**Testcase 3 :**
+
+```
+Enter name, age, job : Compro 1990 Easy
+======================
+| Compro             |
+| ------------------ |
+| Age : 1990         |
+| Job : Easy         |
+======================
+
 ```
 
 <img width="697" alt="Screen Shot 2568-05-02 at 20 45 45" src="https://github.com/user-attachments/assets/d09c20b7-7aba-475a-9afc-b5f8d17b2ca6" />
