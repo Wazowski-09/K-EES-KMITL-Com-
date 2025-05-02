@@ -328,5 +328,3 @@ Max marking   = 100 points, 1 students.
 <img width="700" alt="Screen Shot 2568-05-02 at 20 53 36" src="https://github.com/user-attachments/assets/f4a2d620-8765-4b43-b4b0-b0614ad1c804" />
 
 ---
-
-git mv Chapter\ 08/README-C8.md Chapter\ 08/Exercise-Chapter_8.md
