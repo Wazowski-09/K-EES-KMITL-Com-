@@ -1,3 +1,19 @@
-.DS_Store
+# ไฟล์ที่คอมไพล์ขึ้นมาจาก C
+*.o
+*.out
+*.elf
+*.exe
 
+# ไฟล์สำหรับ debug
+*.dSYM/
+*.log
+
+# VS Code config
 .vscode/
+
+# ไฟล์สำรองจาก editor
+*~
+*.swp
+
+# MacOS metadata
+.DS_Store
