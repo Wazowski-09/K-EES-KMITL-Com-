@@ -38,6 +38,69 @@ int main() {
 }
 ```
 
+**Testcase 1 :**
+
+```
+ *** Palindrome Verification ***
+Enter a sentence : madam
+"madam" is PALINDROME.
+
+```
+
+**Testcase 2 :**
+
+```
+ *** Palindrome Verification ***
+Enter a sentence : abba
+"abba" is PALINDROME.
+
+```
+
+**Testcase 3 :**
+
+```
+ *** Palindrome Verification ***
+Enter a sentence : atoyota
+"atoyota" is PALINDROME.
+
+```
+
+**Testcase 4 :**
+
+```
+ *** Palindrome Verification ***
+Enter a sentence : a toyota
+"a toyota" is NOT palindrom.
+
+```
+
+**Testcase 5 :**
+
+```
+ *** Palindrome Verification ***
+Enter a sentence : detartrated
+"detartrated" is PALINDROME.
+
+```
+
+**Testcase 6 :**
+
+```
+ *** Palindrome Verification ***
+Enter a sentence : Wonton
+"Wonton" is NOT palindrom.
+
+```
+
+**Testcase 7 :**
+
+```
+ *** Palindrome Verification ***
+Enter a sentence : KappAk
+"KappAk" is NOT palindrom.
+
+```
+
 <img width="701" alt="Screen Shot 2568-05-02 at 21 11 23" src="https://github.com/user-attachments/assets/94e9747f-fe39-4db0-bb7c-343262bdca84" />
 
 <img width="696" alt="Screen Shot 2568-05-02 at 21 11 38" src="https://github.com/user-attachments/assets/38bee712-93fe-4121-8cd1-1330303d4009" />
@@ -77,6 +140,28 @@ int main()
 }
 ```
 
+**Testcase 1 :**
+
+```
+Enter my money, other money : 10 200
+Me :   10 | Other :  200
+
+====== Whooop! ======
+
+Me :  200 | Other :   10
+```
+
+**Testcase 2 :**
+
+```
+Enter my money, other money : 0 500
+Me :    0 | Other :  500
+
+====== Whooop! ======
+
+Me :  500 | Other :    0
+```
+
 <img width="697" alt="Screen Shot 2568-05-02 at 21 12 07" src="https://github.com/user-attachments/assets/44223842-8331-44ff-aff2-c578bd0b4f7f" />
 
 ---
@@ -108,6 +193,27 @@ int main()
 	for (i = 0; i < 5; i++)
 		printf("%d ", scores[i]);
 }
+```
+
+**Testcase 1 :**
+
+```
+Enter 5 score : 5 4 3 2 1
+Sorted : 5 4 3 2 1
+```
+
+**Testcase 2 :**
+
+```
+Enter 5 score : 1 2 3 4 5
+Sorted : 5 4 3 2 1
+```
+
+**Testcase 3 :**
+
+```
+Enter 5 score : 2 3 1 2 4
+Sorted : 4 3 2 2 1
 ```
 
 <img width="698" alt="Screen Shot 2568-05-02 at 21 12 23" src="https://github.com/user-attachments/assets/7a55d286-85a5-4422-b081-924298940e2f" />
@@ -144,6 +250,71 @@ int main() {
 }
 ```
 
+**Testcase 1 :**
+
+```
+ ***  Palindrome Verification  ***
+ *  verify only alphabet number  *
+ *        insensitive case       *
+ *-------------------------------*
+Enter a sentence : a&b#a
+Entered message : a&b#a
+"a&b#a" is PALINDROME.
+
+```
+
+**Testcase 2 :**
+
+```
+ ***  Palindrome Verification  ***
+ *  verify only alphabet number  *
+ *        insensitive case       *
+ *-------------------------------*
+Enter a sentence : a b+A
+Entered message : a b+A
+"a b+A" is PALINDROME.
+
+```
+
+**Testcase 3 :**
+
+```
+ ***  Palindrome Verification  ***
+ *  verify only alphabet number  *
+ *        insensitive case       *
+ *-------------------------------*
+Enter a sentence : abbaABBA
+Entered message : abbaABBA
+"abbaABBA" is PALINDROME.
+
+```
+
+**Testcase 4 :**
+
+```
+ ***  Palindrome Verification  ***
+ *  verify only alphabet number  *
+ *        insensitive case       *
+ *-------------------------------*
+Enter a sentence : 789 A a= 987
+Entered message : 789 A a= 987
+"789 A a= 987" is PALINDROME.
+
+```
+
+**Testcase 5 :**
+
+```
+ ***  Palindrome Verification  ***
+ *  verify only alphabet number  *
+ *        insensitive case       *
+ *-------------------------------*
+Enter a sentence : 123325
+Entered message : 123325
+"123325" is NOT palindrom.
+
+```
+
 <img width="697" alt="Screen Shot 2568-05-02 at 21 12 44" src="https://github.com/user-attachments/assets/32e52aaf-9a22-49a5-8bf8-c98ca32130eb" />
 
 <img width="697" alt="Screen Shot 2568-05-02 at 21 14 29" src="https://github.com/user-attachments/assets/af9cef82-6710-4b32-9c51-1979da8b220c" />
@@ -176,6 +347,42 @@ int main() {
 
 	return 0;
 }
+```
+
+**Testcase 1 :**
+
+```
+*** Number to words ***
+Enter phone number : 0881231234
+0881231234 ==> zero eight eight one two three one two three four
+
+```
+
+**Testcase 2 :**
+
+```
+*** Number to words ***
+Enter phone number : 0884238899
+0884238899 ==> zero eight eight four two three eight eight nine nine
+
+```
+
+**Testcase 3 :**
+
+```
+*** Number to words ***
+Enter phone number : 0869037938
+0869037938 ==> zero eight six nine zero three seven nine three eight
+
+```
+
+**Testcase 4 :**
+
+```
+*** Number to words ***
+Enter phone number : 023264711
+023264711 ==> zero two three two six four seven one one
+
 ```
 
 <img width="697" alt="Screen Shot 2568-05-02 at 21 15 02" src="https://github.com/user-attachments/assets/20f893aa-1609-469c-8185-959784be0d6e" />
